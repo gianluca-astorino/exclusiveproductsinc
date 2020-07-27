@@ -46,5 +46,4 @@
 
   // Magnific popup calls
   
-
 })(jQuery); // End of use strict
